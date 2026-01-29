@@ -1,8 +1,8 @@
-# helloworld
+astrbot_plugin_siliao_chat
 
-AstrBot 插件模板
+AstrBot 插件 
 
-A template plugin for AstrBot plugin feature
+通过检测私聊对话 /say <群号> <内容> 来向群聊发送消息
 
 # 支持
 
